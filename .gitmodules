@@ -1,3 +1,6 @@
 [submodule "nodejs-k8s-projects"]
 	path = nodejs-k8s-projects
 	url = https://github.com/sraj9506/nodejs-k8s-projects
+[submodule "nodejs-advanced-k8s-project"]
+	path = nodejs-advanced-k8s-project
+	url = https://github.com/sraj9506/nodejs-advanced-k8s-project
